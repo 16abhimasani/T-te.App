@@ -6,7 +6,7 @@ Currently I'm working on only the front end of this app. I link 2 different Boot
 
 ## Bugs and Issues
 
-The one bug I have right now is that the scroll arrow on the landing page does not smoothly scroll down like the other features.
+The one bug I have right now is that the scroll arrow on the landing page does not smoothly scroll down like the other features. Update*: Arrow fixed now. Smooth scrolling accomplished. 
 
 ## Creator
 
